@@ -19,4 +19,4 @@
     all done
 
 
-https://github.com/modesq/math-series/pull/1
+[pull request](https://github.com/modesq/math-series/pull/1)
