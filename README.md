@@ -17,3 +17,6 @@
 - Describe any tests that you did not complete, skipped, etc
 
     all done
+
+
+https://github.com/modesq/math-series/pull/1
